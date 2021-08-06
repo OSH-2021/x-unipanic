@@ -1,0 +1,3 @@
+[submodule "hermitux"]
+	path = hermitux
+	url = https://github.com/zeyugao/hermitux.git
